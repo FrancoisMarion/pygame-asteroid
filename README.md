@@ -1,1 +1,1 @@
-pygame==2.6.0
+my first project
